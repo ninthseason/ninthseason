@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' style="font-size:30px;font-weight:bold">
 
   宣室求贤访逐臣，贾生才调更无伦。
   
