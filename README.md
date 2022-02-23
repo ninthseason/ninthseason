@@ -1,7 +1,6 @@
-<div align='center' style="font-size:30px;font-weight:bold">
+<div align="center">
 
-  ### 宣室求贤访逐臣，贾生才调更无伦。
-  
-  ### 可怜夜半虚前席，不问苍生问鬼神。
-  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninthseason&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninthseason&layout=compact&theme=buefy&hide_border=true&hide=Lua" /></a> |
+| ------------- | ------------- |
+
 </div>
