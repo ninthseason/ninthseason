@@ -1,4 +1,4 @@
-一个攻读自然魔法系，召唤学的年轻人。
+一个攻读自然魔法系，召唤学专业的年轻人。
 
 A young man that studys in summons major of nature magic department.
 
